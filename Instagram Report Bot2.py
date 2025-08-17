@@ -19,7 +19,7 @@ def getOptions(args=sys.argv[1:]):
 
 args = getOptions()
 
-username = args.username
+username = Davvclaudio
 acc_file = args.file
 
 if username == "" :
